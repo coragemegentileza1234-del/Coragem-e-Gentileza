@@ -1,0 +1,47 @@
+[
+  {
+    "id": "luna",
+    "name": "Luna",
+    "species": "cao",
+    "ageLabel": "2 anos",
+    "size": "medio",
+    "city": "Criciuma, SC",
+    "vaccinated": true,
+    "neutered": true,
+    "description": "Calma, sociavel e gosta de criancas.",
+    "imageUrl": "https://images.unsplash.com/photo-1517849845537-4d257902454a?auto=format&fit=crop&w=900&q=80",
+    "temperamentTags": ["Calma", "Vacinada", "Ama criancas"],
+    "status": "disponivel",
+    "createdAt": "2026-04-10T08:00:00.000Z"
+  },
+  {
+    "id": "thor",
+    "name": "Thor",
+    "species": "cao",
+    "ageLabel": "4 anos",
+    "size": "grande",
+    "city": "Icara, SC",
+    "vaccinated": true,
+    "neutered": true,
+    "description": "Brincalhao e companheiro para atividades ao ar livre.",
+    "imageUrl": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?auto=format&fit=crop&w=900&q=80",
+    "temperamentTags": ["Brincalhao", "Castrado", "Sociavel"],
+    "status": "disponivel",
+    "createdAt": "2026-04-11T08:00:00.000Z"
+  },
+  {
+    "id": "mel",
+    "name": "Mel",
+    "species": "cao",
+    "ageLabel": "1 ano",
+    "size": "pequeno",
+    "city": "Criciuma, SC",
+    "vaccinated": false,
+    "neutered": false,
+    "description": "Docil, se adapta bem a apartamento e rotina tranquila.",
+    "imageUrl": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=900&q=80",
+    "temperamentTags": ["Filhote", "Docil", "Apartamento"],
+    "status": "disponivel",
+    "createdAt": "2026-04-12T08:00:00.000Z"
+  }
+]

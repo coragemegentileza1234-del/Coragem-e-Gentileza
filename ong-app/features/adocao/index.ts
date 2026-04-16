@@ -1,2 +1,2 @@
-// Exportação pública da feature de adoção
-export { default as PrototipoOngAdocaoHome } from './components/PrototipoOngAdocaoHome';
+export { default as FormularioResponsabilidadeAdocao } from "./components/FormularioResponsabilidadeAdocao";
+export { default as PrototipoOngAdocaoHome } from "./components/PrototipoOngAdocaoHome";
